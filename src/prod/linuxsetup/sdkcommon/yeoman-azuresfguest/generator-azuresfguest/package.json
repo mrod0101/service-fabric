@@ -16,7 +16,7 @@
     "yeoman-generator"
   ],
   "dependencies": {
-   "yeoman-generator": "^0.22.5",
+   "yeoman-generator": "^1.0.0",
    "yosay": "^1.1.0",
    "xml2js": "^0.4.6",
    "chalk": "^1.1.3"
